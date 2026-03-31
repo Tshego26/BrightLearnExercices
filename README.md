@@ -1,1 +1,1 @@
-# -BrightLearnExercices
+# -BrightLearnExercises 
